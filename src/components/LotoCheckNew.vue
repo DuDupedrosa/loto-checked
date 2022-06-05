@@ -94,11 +94,11 @@
 </template>
 
 <script>
-import TitleSecond from '@/components/TitleSecond.vue';
-import TitleMain from '@/components/TitleMain.vue';
-import LoadingMain from '@/components/LoadingMain.vue';
-import ButtonNewConsult from '@/components/ButtonNewConsult.vue';
-import LinkCallAction from '@/components/LinkCallAction.vue';
+import TitleSecond from './TitleSecond.vue';
+import TitleMain from './TitleMain.vue';
+import LoadingMain from './LoadingMain.vue';
+import ButtonNewConsult from './ButtonNewConsult.vue';
+import LinkCallAction from './LinkCallAction.vue';
 import allContests from '@/mixins/allContests.js';
 
 export default {
